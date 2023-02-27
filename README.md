@@ -1,6 +1,6 @@
 For some context on why we think having a code of conduct for our organization is important and the process surrounding its development, check out [this introduction](./introduction.md).
 
-# DigitalOcean's Engineering Code of Conduct
+# Decision Labs's Engineering Code of Conduct
 
 ## Why have a Code of Conduct?
 This Code of Conduct is designed to help all of us build a pleasant, productive, and fearless community. The purpose of the Code of Conduct is not to burden the team with a bunch of needless rules, or to give us a punishment mechanism for people "being bad," or even to correct things that have been wrong in the past. We are striving to make our engineering team a great group of people to work with, especially for those people who have faced more adverse working environments in the past.
